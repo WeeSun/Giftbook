@@ -21,7 +21,7 @@ handlers:
 
 # Handler for front page
 - url: /
-  script: front.app
+  script: giftbook.app
 
 # All other pages require login
 - url: /.*
